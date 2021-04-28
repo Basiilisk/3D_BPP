@@ -1,0 +1,4 @@
+﻿  3D_BPP.cpp
+C:\Users\user\Desktop\3D_BPP_proj\3D_BPP\3D_BPP.cpp(55,25): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\user\Desktop\3D_BPP_proj\3D_BPP\3D_BPP.cpp(155,29): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  3D_BPP.vcxproj -> C:\Users\user\Desktop\3D_BPP_proj\3D_BPP\x64\Debug\3D_BPP.exe

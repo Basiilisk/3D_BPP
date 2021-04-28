@@ -1,0 +1,10 @@
+id: 1		NOP: 4			ID products: 1142 4703 1696 4862
+id: 9		NOP: 7			ID products: 53 70 1330 2661 2817 1053 1876
+id: 5		NOP: 2			ID products: 2067 1384
+id: 0		NOP: 4			ID products: 2029 2027 1687 1801
+id: 4		NOP: 5			ID products: 1388 934 2701 4924 826
+id: 8		NOP: 4			ID products: 1299 1291 154 621
+id: 6		NOP: 3			ID products: 2909 3866 4371
+id: 3		NOP: 3			ID products: 944 3215 1348
+id: 7		NOP: 2			ID products: 3091 129
+id: 2		NOP: 2			ID products: 313 409

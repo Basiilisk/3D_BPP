@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest_3DBPP.cpp
+C:\Users\user\Desktop\3D_BPP_proj\3D_BPP\3D_BPP.cpp(55,25): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\user\Desktop\3D_BPP_proj\3D_BPP\3D_BPP.cpp(155,29): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+     Создается библиотека C:\Users\user\Desktop\3D_BPP_proj\3D_BPP\x64\Debug\UnitTest_3DBPP.lib и объект C:\Users\user\Desktop\3D_BPP_proj\3D_BPP\x64\Debug\UnitTest_3DBPP.exp
+  UnitTest_3DBPP.vcxproj -> C:\Users\user\Desktop\3D_BPP_proj\3D_BPP\x64\Debug\UnitTest_3DBPP.dll

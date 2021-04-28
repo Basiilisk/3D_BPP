@@ -1,0 +1,10 @@
+id: 199		NOP: 1			ID products: 9
+id: 4156		NOP: 1			ID products: 7
+id: 3853		NOP: 1			ID products: 6
+id: 2072		NOP: 1			ID products: 5
+id: 2559		NOP: 1			ID products: 8
+id: 4784		NOP: 1			ID products: 3
+id: 2502		NOP: 1			ID products: 4
+id: 2660		NOP: 1			ID products: 2
+id: 2778		NOP: 1			ID products: 0
+id: 3391		NOP: 1			ID products: 1
